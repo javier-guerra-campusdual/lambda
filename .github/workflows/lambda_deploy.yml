@@ -17,7 +17,7 @@ jobs:
                   aws_secret_access_key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
                   aws_session_token: ${{ secrets.AWS_SESSION_TOKEN }}
                   aws_region: ${{ secrets.AWS_DEFAULT_REGION}}
-                  function_name: daily_shutdown_javier
+                  function_name: daily_shutdown
                   source: src/main.py
                   #ZIP_FILE: my-function.zip
                   timeout: 300
