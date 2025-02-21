@@ -1,0 +1,6 @@
+[submodule "lambda"]
+	path = lambda
+	url = https://github.com/javier-guerra-campusdual/lambda.git
+[submodule "lambda_dns"]
+	path = lambda_dns
+	url = https://github.com/javier-guerra-campusdual/lambda_dns.git
